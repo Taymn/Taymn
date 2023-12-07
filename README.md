@@ -10,7 +10,7 @@ I am excited to learn how to use code environments to solve complex problems!
 * ✉️  You can contact me at [Adamgt2003@gmail.com](mailto:Adamgt2003@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://github.com/Taymn/VSchool/tree/main/level6/Assignment-Review/Portfolio)
 * 🧠  I'm learning Full Stack Web Development course with V School
-* 🤝  I'm open to collaborating on anything to learn more!
+* 🤝  I'm open to collaborating on Anything turn learn more!
 * ⚡  I have a cat named Atom.
 
 ### Skills
